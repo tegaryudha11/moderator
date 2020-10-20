@@ -1,4 +1,4 @@
-# Welcome to my GitHub repository.
+tegaryudha.# Welcome to my GitHub repository.
 
 ## Hello! My name is Chino Kafuu, and I'm just another simple Discord bot.
 ### Well... As you can see, I'm a bot with many features like fun, ~~music~~, moderation and utility.
